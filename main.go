@@ -12,15 +12,6 @@ import (
 	"os"
 )
 
-// @title bluebell项目接口文档
-// @version 1.0
-// @description Go web开发进阶项目实战课程bluebell
-
-// @contact.name liwenzhou
-// @contact.url http://www.liwenzhou.com
-
-// @host 127.0.0.1:8080
-// @BasePath /api/v1
 func main() {
 	if len(os.Args) < 2 {
 		fmt.Println("need config file.eg: bluebell config.yaml")
