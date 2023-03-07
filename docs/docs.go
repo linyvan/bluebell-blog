@@ -207,7 +207,7 @@ var SwaggerInfo = swaggerInfo{
 	BasePath:    "/api/v1",
 	Schemes:     []string{},
 	Title:       "bluebell项目接口文档",
-	Description: "Go web开发进阶项目实战课程bluebell",
+	Description: "Go web开发进阶项目实战bluebell",
 }
 
 type s struct{}

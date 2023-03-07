@@ -1,5 +1,5 @@
 name: "bluebell"
-mode: "release"
+mode: "dev"
 port: 8084
 version: "v1.0.0"
 start_time: "2022-01-01"

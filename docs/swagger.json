@@ -1,7 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "description": "Go web开发进阶项目实战课程bluebell",
+        "description": "Go web开发进阶项目实战bluebell",
         "title": "bluebell项目接口文档",
         "contact": {
             "name": "liwenzhou",
