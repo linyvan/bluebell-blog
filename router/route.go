@@ -4,10 +4,9 @@ import (
 	"bluebell/controller"
 	"bluebell/logger"
 	"bluebell/middlewares"
-	"net/http"
-
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
+	"net/http"
 
 	_ "bluebell/docs"
 
