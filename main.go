@@ -21,7 +21,7 @@ func main() {
 	//	fmt.Printf("load config failed, err:%v\n", err)
 	//	return
 	//}
-	if err := setting.Init("conf/config.yaml"); err != nil {
+	if err := setting.Init("./conf/config.yaml"); err != nil {
 		fmt.Printf("load config failed, err:%v\n", err)
 		return
 	}
