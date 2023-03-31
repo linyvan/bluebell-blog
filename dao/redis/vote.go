@@ -9,8 +9,7 @@ import (
 	"github.com/go-redis/redis"
 )
 
-// 推荐阅读
-// 基于用户投票的相关算法：http://www.ruanyifeng.com/blog/algorithm/
+// 基于用户投票的相关算法来自阮一峰的博客：http://www.ruanyifeng.com/blog/algorithm/
 
 // 本项目使用简化版的投票分数
 // 投一票就加432分   86400/200  --> 200张赞成票可以给你的帖子续一天
